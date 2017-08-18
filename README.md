@@ -17,15 +17,15 @@ Authors:
 
 Yu-Chiao Chiu1, Yidong Chen1,2
 
-1Greehey Children’s Cancer Research Institute
-2Department of Epidemiology and Biostatistics
-University of Texas Health Science Center at San Antonio
+1Greehey Children’s Cancer Research Institute, 
+2Department of Epidemiology and Biostatistics, 
+University of Texas Health Science Center at San Antonio, 
 San Antonio, TX 78229, USA
 
 Li-Ju Wang3, Tzu-Hung Hsiao3
 
-3Department of Medical Research
-Taichung Veterans General Hospital
+3Department of Medical Research, 
+Taichung Veterans General Hospital, 
 Taichung 40705, Taiwan
 
 Manuscript of scDNA is under consideration for a presentation in The IEEE International Conference on Bioinformatics and
