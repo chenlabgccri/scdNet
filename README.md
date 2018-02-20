@@ -19,18 +19,11 @@ dynamic network.
 
 Authors:
 
-Yu-Chiao Chiu1, Yidong Chen1,2
+Yu-Chiao Chiu1, Tzu-Hung Hsiao2, Li-Ju Wang1, Yidong Chen1,3, Yu‐Hsuan Joni Shao4
 
-1Greehey Children’s Cancer Research Institute, 
-2Department of Epidemiology and Biostatistics, 
-University of Texas Health Science Center at San Antonio, 
-San Antonio, TX 78229, USA
+1Greehey Children's Cancer Research Institute, University of Texas Health Science Center at San Antonio, San Antonio, TX 78229, USA
+2Department of Medical Research, Taichung Veterans General Hospital, Taichung 40705, Taiwan
+3Department of Epidemiology and Biostatistics, University of Texas Health Science Center at San Antonio, San Antonio, TX 78229, USA
+4Graduate Institute of Biomedical Informatics, College of Medical Science and Technology, Taipei Medical University, Taipei 10675, Taiwan
 
-Li-Ju Wang3, Tzu-Hung Hsiao3
-
-3Department of Medical Research, 
-Taichung Veterans General Hospital, 
-Taichung 40705, Taiwan
-
-Manuscript of scDNA is under consideration for a presentation in The IEEE International Conference on Bioinformatics and
-Biomedicine (BIBM) 2017 at Kansas City, MO, USA.
+Manuscript of scDNA is under consideration for a presentation in The 2018 International Conference on Intelligent Biology and Medicine (ICIBM 2018) at Los Angeles, CA, USA.
