@@ -26,11 +26,11 @@ function [p,adj_mat] = scDNA(data,GS_group,p_cutoff)
 % denotes a differential interaction pair of i and j (i.e., the i-j edge in
 % the differential interaction network.
 % 
-% Reference: Yu-Chiao Chiu, Yidong Chen, Li-Ju Wang, and Tzu-Hung Hsiao.
-% scDNA: a fast and comprehensive tool for single cell-based differential
-% network analysis. Manuscript is under consideration for a presentation in
-% The IEEE International Conference on Bioinformatics and Biomedicine
-% (BIBM) 2017 at Kansas City, MO, USA.
+% Reference: Yu-Chiao Chiu, Tzu-Hung Hsiao, Li-Ju Wang, Yidong Chen, and 
+% Yu‐Hsuan Joni Shao. scDNA: a fast and comprehensive tool for single-cell
+% differential network analysis. Manuscript is under consideration for a
+% presentation in The 2018 International Conference on Intelligent Biology
+% and Medicine (ICIBM 2018) at Los Angeles, California, USA.
 
 tic
 
