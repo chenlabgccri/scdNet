@@ -28,11 +28,11 @@ function [GS_score GS_group] = GeneSetScoring(data,data_gene,genes_OI,flag_Ztran
 % represent activation, inactivation, and no-call of a gene set,
 % respectively, for a sample, with a alpha cutoff at 0.05.
 % 
-% Reference: Yu-Chiao Chiu, Yidong Chen, Li-Ju Wang, and Tzu-Hung Hsiao.
-% scDNA: a fast and comprehensive tool for single cell-based differential
-% network analysis. Manuscript is under consideration for a presentation in
-% The IEEE International Conference on Bioinformatics and Biomedicine
-% (BIBM) 2017 at Kansas City, MO, USA.
+% Reference: Yu-Chiao Chiu, Tzu-Hung Hsiao, Li-Ju Wang, Yidong Chen, and 
+% Yu‐Hsuan Joni Shao. scDNA: a fast and comprehensive tool for single-cell
+% differential network analysis. Manuscript is under consideration for a
+% presentation in The 2018 International Conference on Intelligent Biology
+% and Medicine (ICIBM 2018) at Los Angeles, California, USA.
 
 if flag_Ztrans==1
     for i=1:size(data,1)
