@@ -1,10 +1,10 @@
-function [p,adj_mat] = scDNA(data,GS_group,p_cutoff)
+function [p,adj_mat] = scdNet(data,GS_group,p_cutoff)
 
 % The function analyzes a single-cell RNA-Seq dataset to identify gene
 % pairs of which correlation coefficients changes significantly between
-% sample groups. Within each group, scDNA calculates gene-gene interaction
+% sample groups. Within each group, scdNet calculates gene-gene interaction
 % strengths. After adjusting the effects of sample sizes by Fisher
-% transforamtion, scDNA tests the statistical significance of the change in
+% transforamtion, scdNet tests the statistical significance of the change in
 % gene-gene correlation between sample groups.
 % 
 % Inputs: DATA is a K-by-N numeric matrix (in double precision), which
@@ -27,10 +27,8 @@ function [p,adj_mat] = scDNA(data,GS_group,p_cutoff)
 % the differential interaction network.
 % 
 % Reference: Yu-Chiao Chiu, Tzu-Hung Hsiao, Li-Ju Wang, Yidong Chen, and 
-% Yu‐Hsuan Joni Shao. scDNA: a fast and comprehensive tool for single-cell
-% differential network analysis. Manuscript is under consideration for a
-% presentation in The 2018 International Conference on Intelligent Biology
-% and Medicine (ICIBM 2018) at Los Angeles, California, USA.
+% Yu‐Hsuan Joni Shao. scdNet: a computational tool for single-cell
+% differential network analysis.
 
 tic
 
@@ -66,5 +64,5 @@ adj_mat = double(p<p_cutoff);
 
 time_used = toc;
 
-disp(sprintf('\n\nSuccess! scDNA analysis was finished in %.2f seconds.\n',time_used));
+disp(sprintf('\n\nSuccess! scdNet analysis was finished in %.2f seconds.\n',time_used));
 
