@@ -30,7 +30,7 @@ function [GS_score GS_group] = GeneSetScoring(data,data_gene,genes_OI,flag_Ztran
 % 
 % Reference: Yu-Chiao Chiu, Tzu-Hung Hsiao, Li-Ju Wang, Yidong Chen, and 
 % Yu‐Hsuan Joni Shao. scdNet: a computational tool for single-cell
-% differential network analysis.
+% differential network analysis. BMC systems biology. 2018;12(Suppl 8):124.
 
 if flag_Ztrans==1
     for i=1:size(data,1)
