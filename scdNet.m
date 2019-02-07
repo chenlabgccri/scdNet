@@ -28,7 +28,7 @@ function [p,adj_mat] = scdNet(data,GS_group,p_cutoff)
 % 
 % Reference: Yu-Chiao Chiu, Tzu-Hung Hsiao, Li-Ju Wang, Yidong Chen, and 
 % Yu‐Hsuan Joni Shao. scdNet: a computational tool for single-cell
-% differential network analysis.
+% differential network analysis. BMC systems biology. 2018;12(Suppl 8):124.
 
 tic
 
