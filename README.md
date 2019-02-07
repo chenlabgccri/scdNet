@@ -25,4 +25,4 @@ Yu-Chiao Chiu1, Tzu-Hung Hsiao2, Li-Ju Wang1, Yidong Chen1,3, Yu‐Hsuan Joni Sh
 3Department of Epidemiology and Biostatistics, University of Texas Health Science Center at San Antonio, San Antonio, TX 78229, USA
 4Graduate Institute of Biomedical Informatics, College of Medical Science and Technology, Taipei Medical University, Taipei 10675, Taiwan
 
-Manuscript of scdNet is accepted for oral presentation in The 2018 International Conference on Intelligent Biology and Medicine (ICIBM 2018) at Los Angeles, CA, USA, and currently under consideration for publication in a Special Issue of BMC Systems Biology.
+Manuscript of scdNet is accepted for oral presentation in The 2018 International Conference on Intelligent Biology and Medicine (ICIBM 2018) at Los Angeles, CA, USA, and published in BMC systems biology. 2018;12(Suppl 8):124.
